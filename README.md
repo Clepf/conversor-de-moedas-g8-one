@@ -33,7 +33,7 @@ Para executar o projeto localmente:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/user/conversor-moedas.git
+git clone https://github.com/Clepf/conversor-de-moedas-g8-one.git
 
 # Acesse a pasta do projeto
 cd conversor-moedas
